@@ -5,7 +5,7 @@
 /**
  * main - print if positive,zero,or negative
  *
- * DEscription: using the main function 
+ * DEscription: using the main function
  * this program prints 'programming is positive, zero, or negative
  * Return: 0
  */
